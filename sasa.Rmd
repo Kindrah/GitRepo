@@ -1,0 +1,16 @@
+---
+title: "Untitled"
+output: pdf_document
+date: "2023-11-08"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+1.
+```{r}
+  x<-1
+  y<-1
+  sumsa= x+y
+  sumsa
+```
